@@ -7,8 +7,8 @@ Learning Algorithm (for improved speed and accuracy);\
 Architecture Design (for heterogeneous networking);\
 Augmented and Virtual Reality Techniques (for 3D Holographic Display); and\
 Network Performance Simulation and Security for Spectrum Awareness in Cognitive Radio Network.
-- 🌱 I’m currently working on Music Data Mining.
-- 💞️ I’m looking to collaborate on 3D Holographic Display for Mobile Applications, and Music Fingerprinting.
+- 🎼 I’m currently working on Music Data Mining.
+- ➕ I’m looking to collaborate on 3D Holographic Display for Mobile Applications, and Music Fingerprinting.
 - 📚 Ph. D. Dissertation: "High Performance Spectrum Utilization based on Big-Spectrum-Data"
 - 🧑‍🏫 Ph. D. Supervisors:\
 Dr. Dmitri, Perkins (https://www.csee.umbc.edu/~dmitrip1/), and\
