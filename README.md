@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diran Olaleye
+- 👋 Hi, I’m Diran
 - 👀 I’m interested in:\
 Internet of Things (IoT);\
 Big Data Analysis and Statistical Modelling;\
