@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diran
 - 👀 I’m interested in:
 >Internet of Things (IoT);\
->Cloud Computing
+>Cloud Computing;\
 >Big Data Analysis and Statistical Modelling;\
 >Parameter Estimation Techniques (for improved reliability and resource sharing);\
 >Learning Algorithm (for improved speed and accuracy);\
