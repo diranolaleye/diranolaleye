@@ -3,7 +3,7 @@
 >Cloud Computing;\
 >Internet of Things (IoT);\
 >Big Data Analysis and Statistical Modelling;\
->>Architecture Design (for heterogeneous networking);\
+>Architecture Design (for heterogeneous networking);\
 >Learning Algorithm (for improved speed and accuracy);\
 >Augmented and Virtual Reality Techniques (for 3D Holographic Display);\
 >Parameter Estimation Techniques (for improved reliability and resource sharing); and\
