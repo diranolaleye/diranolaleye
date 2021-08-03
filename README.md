@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Diran
 - 👀 I’m interested in:
->Internet of Things (IoT);\
 >Cloud Computing;\
+>Internet of Things (IoT);\
 >Big Data Analysis and Statistical Modelling;\
->Parameter Estimation Techniques (for improved reliability and resource sharing);\
+>>Architecture Design (for heterogeneous networking);\
 >Learning Algorithm (for improved speed and accuracy);\
->Architecture Design (for heterogeneous networking);\
->Augmented and Virtual Reality Techniques (for 3D Holographic Display); and\
+>Augmented and Virtual Reality Techniques (for 3D Holographic Display);\
+>Parameter Estimation Techniques (for improved reliability and resource sharing); and\
 >Network Performance Simulation and Security for Spectrum Awareness in Cognitive Radio Network.
 - 🎼 I’m currently working on Music Data Mining.
 - ➕ I’m looking to collaborate on 3D Holographic Display for Mobile Applications, and Music Fingerprinting.
