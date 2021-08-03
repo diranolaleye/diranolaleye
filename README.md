@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diran
-- 👀 I’m interested in:\
+- 👀 I’m interested in:
 >Internet of Things (IoT);\
 >Cloud Computing
 >Big Data Analysis and Statistical Modelling;\
