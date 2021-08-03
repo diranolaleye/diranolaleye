@@ -12,7 +12,7 @@ Network Performance Simulation and Security for Spectrum Awareness in Cognitive 
 - 📚 Ph. D. Dissertation: "High Performance Spectrum Utilization based on Big-Spectrum-Data," https://www.proquest.com/openview/a18c948d2a4e856ee50cade66b4f2e5e/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y
 - 🧑‍🏫 Ph. D. Supervisors:\
 Dr. Dmitri, Perkins (https://www.csee.umbc.edu/~dmitrip1/), and\
-[Dr. Magdy, Bayoumi]: https://people.cmix.louisiana.edu/mab/
+[Dr. Magdy, Bayoumi](https://people.cmix.louisiana.edu/mab/)
 - 📫 How to reach me? By email (oolaleye2 [at] gmail [dot] com) and by SMS (337-873-1175).
 
 <!---
