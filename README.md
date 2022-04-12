@@ -10,7 +10,7 @@
 >Network Performance Simulation and Security for Spectrum Awareness in Cognitive Radio Network.
 - 🎼 I’m currently working on Music Data Mining.
 - ➕ I’m looking to collaborate on 3D Holographic Display for Mobile Applications, and Music Fingerprinting.
-- 📚 Ph.D Dissertation: ["High Performance Spectrum Utilization based on Big-Spectrum-Data"](https://www.proquest.com/docview/2550271835/F8844470B25E45F4PQ/1?accountid=8437)
+- 📚 Ph.D Dissertation: ["High Performance Spectrum Utilization based on Big-Spectrum-Data"](https://www.proquest.com/openview/a18c948d2a4e856ee50cade66b4f2e5e/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
 - 🧑‍🏫 Ph.D Supervisors: [Dr. Dmitri, Perkins](https://www.csee.umbc.edu/~dmitrip1/) and [Dr. Magdy, Bayoumi](https://people.cmix.louisiana.edu/mab/)
 - 📫 How to reach me? By email (oolaleye1 [at] gmail [dot] com) and by SMS (337-873-1175).
 
